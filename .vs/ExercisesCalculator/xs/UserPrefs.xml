@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{77889FB4-CBA9-7CAD-3182-9EA83D082AE2}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/MainScript.cs">
+    <Files>
+      <File FileName="Assets/MainScript.cs" Line="33" Column="29" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ExercisesCalculator" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="MainScript.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="30f00d2e-0ba9-498e-92aa-a6a03764cc32" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
